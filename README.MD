@@ -1,6 +1,7 @@
 # Simple CSV Filter Windows App
 
-![csv filter github](https://github.com/TonnyG95/Simple-CSV-Filter-App/assets/47572512/d9d7ec70-9f5a-4ab5-9e5f-ccb2715de031)
+![csv filter github](https://github.com/TonnyG95/Simple-CSV-Filtering-App/assets/47572512/41a7d6a2-b8d3-49f7-90cb-c92146b5d46a)
+
 
 # Table of Contents
 
@@ -42,13 +43,14 @@ The Simple CSV Filter app, while modest in its design, is power-packed with feat
 
 The GUI of this Simple app is designed with the user's ease and efficiency in mind. While it might not feature the latest design trends, its strength lies in its straightforwardness and functionality, ensuring users can focus on their task without unnecessary complexity:
 
-![csv filter github](https://github.com/TonnyG95/Simple-CSV-Filter-App/assets/47572512/d9d7ec70-9f5a-4ab5-9e5f-ccb2715de031)
+![csv filter github](https://github.com/TonnyG95/Simple-CSV-Filtering-App/assets/47572512/41a7d6a2-b8d3-49f7-90cb-c92146b5d46a)
+
 
 ### Streamlined Column Selection for Filtering
 
 A hallmark of the Simple CSV Filter app is its intuitively designed feature that allows users to effortlessly select which column they wish to apply the filter to. This capability stands out as one of the app's most valuable functionalities, streamlining the data filtering process:
 
-![image](https://github.com/TonnyG95/Simple-CSV-Filter-App/assets/47572512/9b39b3c5-3008-418a-8bad-8d57e38d4a5d)
+![image](https://github.com/TonnyG95/Simple-CSV-Filtering-App/assets/47572512/e6f7cb23-5050-4a3c-a55a-41f7703e5d13)
 
 ### Direct Value Input for Targeted Filtering
 
@@ -60,7 +62,7 @@ Example Use Case: If you're aiming to filter records by age and are interested i
 
 This feature is designed to offer simplicity and precision, making it possible for users to quickly refine large datasets into more manageable subsets of data that meet their exact needs.
 
-![image](https://github.com/TonnyG95/Simple-CSV-Filter-App/assets/47572512/8e870e47-1c6e-4ef3-8935-c5d1ab18c919)
+![image](https://github.com/TonnyG95/Simple-CSV-Filtering-App/assets/47572512/ba812baa-5c1e-4f91-a0c4-d914cf58f15b)
 
 ### Messages
 
@@ -74,11 +76,11 @@ Preventative Measures: Before initiating any operation, the app checks for the n
 
 **Error Message**
 
-![image](https://github.com/TonnyG95/Simple-CSV-Filter-App/assets/47572512/678c1d23-4fc7-4a4f-8cff-ce9b27dae807)
+![image](https://github.com/TonnyG95/Simple-CSV-Filtering-App/assets/47572512/2bfd8295-7df0-43c3-b579-c6b46019f5ba)
 
 **Filtration Completed**
 
-![image](https://github.com/TonnyG95/Simple-CSV-Filter-App/assets/47572512/bc601063-26b1-4408-aaa9-d74470e24b37)
+![alt text](image.png)
 
 ## Requirements
 The Simple CSV Filter app is developed in Python and utilizes several essential packages to manage and process CSV files efficiently. Below is a list of required Python packages along with their specified versions to ensure the app runs smoothly:
