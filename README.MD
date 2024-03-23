@@ -78,7 +78,8 @@ Preventative Measures: Before initiating any operation, the app checks for the n
 
 **Filtration Completed**
 
-![alt text](image.png)
+![image](https://github.com/TonnyG95/Simple-CSV-Filtering-App/assets/47572512/830b683a-262d-4483-9523-42928d6e5ca1)
+
 
 ## Requirements
 The Simple CSV Filter app is developed in Python and utilizes several essential packages to manage and process CSV files efficiently. Below is a list of required Python packages along with their specified versions to ensure the app runs smoothly:
